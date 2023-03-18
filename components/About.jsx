@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-black'>
-            I am a freelance Data Scientist and AI Engineer, currently doing Bachelor's in Software Engineering at NED University, Karachi. I have a passion for exploring hidden trends in data and building AI models to solve business problems.
+            I am a freelance Data Scientist and AI Engineer, currently doing Bachelors in Software Engineering at NED University, Karachi. I have a passion for exploring hidden trends in data and building AI models to solve business problems.
             Moreover, I love building NLP and Computer Vision solutions to solve real-world problems.  Other than that, I also like to build web applications using MERN stack and Next.js framework.
           </p>
           <p className='py-2 text-black'>
