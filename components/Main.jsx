@@ -12,7 +12,7 @@ const Main = () => {
     <div className='max-w-[1240px] text-center w-full h-full mx-auto p-2 flex justify-center items-center'>
       <div>
         <p className='uppercaset text-sm tracking-widest text-black'>
-          LET&#39;S BUILD SOMETHING TOGETHER
+          LETS BUILD SOMETHING TOGETHER
         </p>
         <h1 className='py-4 text-gray-700'>
           Hi there 👋, I'm <span className='text-[#5651e5]'> Moaaz</span>

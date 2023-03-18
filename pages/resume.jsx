@@ -46,7 +46,7 @@ const resume = () => {
         <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
           <div className='hidden sm:block'>
             <p>
-              Data Science<span className='px-1'>|</span> Web Development{' '}
+              Data Science<span className='px-1'>|</span> Web Development
               <span className='px-1'>|</span> AI (NLP AND CV)
             </p>
           </div>
@@ -96,7 +96,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Remote
           </p>
-          <p className='py-1 italic'>Freelance Data Scientist and AI Engineer - Level 1 Seller (Oct 2022 - Presnt)</p>
+          <p className='py-1 italic'>Freelance Data Scientist and AI Engineer - Level 1 Seller (Oct 2022 - Present)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Created a NLP model to detect hate speech in tweets. The model was deployed on a Flask API and was hosted on Heroku.
